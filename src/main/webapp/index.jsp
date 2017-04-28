@@ -50,9 +50,6 @@
 <TR>
 <TH align=right>Server name:</TH>
 <TD><%= request.getServerName() %></TD>
-16.1 Mapping User Attributes fromthe Identity Provider 
-to a Single User on the Service Provider
-Chapter 16 ? Use Case 2: User AttributeMapping 285
 <TR>
 <TR>
 <TH align=right>Server port:</TH>
